@@ -10,3 +10,4 @@
 - https://medium.com/@laislima_dev/conhe%C3%A7a-a-linguagem-de-programa%C3%A7%C3%A3o-go-76e1f8bc289f
 - https://www.youtube.com/c/AprendaGo
 - https://www.calhoun.io/
+- https://tiago-temporin.notion.site/Go-101-1fe9cef0ccc94ed3bed7f38e7dd5815d
